@@ -5,13 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34dcc8ea-2115-49b3-b5e5-6aa959faa981" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/filemanagement/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filemanagement/FoodType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filemanagement/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/filemanagement/Bear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/CurrencyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oOP/CurrencyFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/HackLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oOP/HackLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/JavaGenerics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oOP/JavaGenerics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/ATM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/AllStarCodeChallenge18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/AllStarCodeChallenge18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/ArraysLeftRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/ArraysLeftRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/CorrectTheMistakes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/CorrectTheMistakes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/Hash_Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/Hash_Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/IsAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/IsAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/LarioAndMuigi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/LarioAndMuigi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/MainOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/MainOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/Mapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/Mapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/StringToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/StringToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/SubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/SubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/SubStringComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/SubStringComparison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/SumOfArraySingles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/SumOfArraySingles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/TwoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/TwoDArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/filemanagement/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/FoodType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/filemanagement/FoodType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/filemanagement/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Basics/ATM.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/ATM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Basics/AllStarCodeChallenge18.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/AllStarCodeChallenge18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Basics/ArraysLeftRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/ArraysLeftRotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Basics/CorrectTheMistakes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/CorrectTheMistakes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Basics/Hash_Set.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/Hash_Set.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Basics/IsAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/IsAnagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Basics/LarioAndMuigi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/LarioAndMuigi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Basics/MainOps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/MainOps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Basics/Mapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/Mapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Basics/StringReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/StringReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Basics/StringToken.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/StringToken.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Basics/SubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/SubString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Basics/SubStringComparison.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/SubStringComparison.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Basics/SumOfArraySingles.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/SumOfArraySingles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Basics/TwoDArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/TwoDArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/OOP/CurrencyFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/OOP/CurrencyFormatter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/OOP/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/OOP/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/OOP/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/OOP/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +53,6 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -47,26 +77,13 @@
       <recent name="C:\Users\nyirc\git\ExamPractices\target" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HackLambda">
+  <component name="RunManager" selected="Application.Zoo">
     <configuration name="CurrencyFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oOP.CurrencyFormatter" />
+      <option name="MAIN_CLASS_NAME" value="OOP.CurrencyFormatter" />
       <module name="ExamPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oOP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HackLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oOP.HackLambda" />
-      <module name="ExamPractices" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oOP.*" />
+          <option name="PATTERN" value="OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,11 +92,11 @@
       </method>
     </configuration>
     <configuration name="Hash_Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.Hash_Set" />
+      <option name="MAIN_CLASS_NAME" value="basics.Hash_Set" />
       <module name="ExamPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.*" />
+          <option name="PATTERN" value="basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,11 +105,11 @@
       </method>
     </configuration>
     <configuration name="MainOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.MainOps" />
+      <option name="MAIN_CLASS_NAME" value="basics.MainOps" />
       <module name="ExamPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.*" />
+          <option name="PATTERN" value="basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +118,24 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oOP.Solution" />
+      <option name="MAIN_CLASS_NAME" value="OOP.Solution" />
       <module name="ExamPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oOP.*" />
+          <option name="PATTERN" value="OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fileManagement.Zoo" />
+      <module name="ExamPractices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fileManagement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,7 +145,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HackLambda" />
+        <item itemvalue="Application.Zoo" />
         <item itemvalue="Application.CurrencyFormatter" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.MainOps" />

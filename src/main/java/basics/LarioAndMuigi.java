@@ -1,6 +1,4 @@
-package Basics;
-
-import java.util.Arrays;
+package basics;
 
 public class LarioAndMuigi {
 
