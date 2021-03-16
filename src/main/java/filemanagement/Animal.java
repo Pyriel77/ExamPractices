@@ -5,7 +5,8 @@ public abstract class Animal {
     private String name;
     private int weight;
     private int obesity;
-    boolean isAlive;
+    boolean isAlive = true;
+
 
     public Animal(String name, int weight) {
         this.name = name;
@@ -38,6 +39,10 @@ public abstract class Animal {
 
     public void setAlive(boolean alive) {
         isAlive = alive;
+    }
+
+    public void feed(FoodType foodType) {
+
     }
 }
 

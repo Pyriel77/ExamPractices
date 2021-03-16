@@ -5,44 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34dcc8ea-2115-49b3-b5e5-6aa959faa981" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/filemanagement/Bear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/ATM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/AllStarCodeChallenge18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/AllStarCodeChallenge18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/ArraysLeftRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/ArraysLeftRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/CorrectTheMistakes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/CorrectTheMistakes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/Hash_Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/Hash_Set.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/IsAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/IsAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/LarioAndMuigi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/LarioAndMuigi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/MainOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/MainOps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/Mapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/Mapping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/StringReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/StringToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/StringToken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/SubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/SubString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/SubStringComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/SubStringComparison.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/SumOfArraySingles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/SumOfArraySingles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basics/TwoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/TwoDArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/filemanagement/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/FoodType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/filemanagement/FoodType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/filemanagement/Zoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Basics/ATM.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/ATM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Basics/AllStarCodeChallenge18.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/AllStarCodeChallenge18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Basics/ArraysLeftRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/ArraysLeftRotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Basics/CorrectTheMistakes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/CorrectTheMistakes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Basics/Hash_Set.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/Hash_Set.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Basics/IsAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/IsAnagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Basics/LarioAndMuigi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/LarioAndMuigi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Basics/MainOps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/MainOps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Basics/Mapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/Mapping.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Basics/StringReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/StringReverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Basics/StringToken.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/StringToken.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Basics/SubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/SubString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Basics/SubStringComparison.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/SubStringComparison.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Basics/SumOfArraySingles.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/SumOfArraySingles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Basics/TwoDArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Basics/TwoDArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOP/CurrencyFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/OOP/CurrencyFormatter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOP/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/OOP/Printer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/OOP/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/OOP/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fileManagement/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fileManagement/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fileManagement/Bear.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fileManagement/Bear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fileManagement/Zoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fileManagement/Zoo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
