@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34dcc8ea-2115-49b3-b5e5-6aa959faa981" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/HackLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/filemanagement/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/filemanagement/FoodType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/filemanagement/Zoo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/CurrencyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oOP/CurrencyFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/HackLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oOP/HackLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/JavaGenerics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oOP/JavaGenerics.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -33,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Robots" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -43,11 +49,11 @@
   </component>
   <component name="RunManager" selected="Application.HackLambda">
     <configuration name="CurrencyFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.CurrencyFormatter" />
+      <option name="MAIN_CLASS_NAME" value="oOP.CurrencyFormatter" />
       <module name="ExamPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.*" />
+          <option name="PATTERN" value="oOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,11 +62,11 @@
       </method>
     </configuration>
     <configuration name="HackLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.HackLambda" />
+      <option name="MAIN_CLASS_NAME" value="oOP.HackLambda" />
       <module name="ExamPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.*" />
+          <option name="PATTERN" value="oOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +101,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Solution" />
+      <option name="MAIN_CLASS_NAME" value="oOP.Solution" />
       <module name="ExamPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.*" />
+          <option name="PATTERN" value="oOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

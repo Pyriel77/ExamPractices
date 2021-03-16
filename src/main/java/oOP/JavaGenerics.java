@@ -1,5 +1,4 @@
-package OOP;
-import java.io.IOException;
+package oOP;
 import java.lang.reflect.Method;
 
 class Printer
