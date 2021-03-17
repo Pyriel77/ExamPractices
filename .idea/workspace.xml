@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34dcc8ea-2115-49b3-b5e5-6aa959faa981" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/filemanagement/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filemanagement/FoodType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filemanagement/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Basics/CompareTriplets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/CurrencyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oOP/CurrencyFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/HackLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oOP/HackLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/JavaGenerics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oOP/JavaGenerics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/filemanagement/Zoo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
