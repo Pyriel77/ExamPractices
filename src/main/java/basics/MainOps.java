@@ -1,10 +1,6 @@
-package Basics;
+package basics;
 
-import java.util.Arrays;
-
-import static Basics.ATM.solve;
-import static Basics.LarioAndMuigi.pipeFix;
-import static Basics.SumOfArraySingles.repeats;
+import static basics.SumOfArraySingles.repeats;
 
 public class MainOps {
 

@@ -1,4 +1,4 @@
-package filemanagement;
+package fileManagement;
 
 public enum FoodType {
 
