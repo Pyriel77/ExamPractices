@@ -7,7 +7,7 @@ public class CountPairs {
 
     public static int countPairs(int[] arr, int[] arr2) {
 
-       
+
         Set<Integer> set = new HashSet<Integer>();
 
 

@@ -5,15 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34dcc8ea-2115-49b3-b5e5-6aa959faa981" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/qualified0317/CountPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RainExtremes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/currency/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/currency/HungarianForint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/currency/USADollar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/t360/Beagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/t360/DigitsCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/t360/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/t360/Husky.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/t360/Kennel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/t360/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileManagement/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileManagement/Bear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/FoodType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileManagement/FoodType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/Hedgehog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileManagement/Hedgehog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileManagement/Rabbit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/Wolf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileManagement/Wolf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileManagement/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/qualified0317/CountPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/qualified0317/CountPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fileManagement/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fileManagement/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fileManagement/Zoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fileManagement/Zoo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +56,7 @@
       <recent name="C:\Users\nyirc\git\ExamPractices\target" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zoo">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="CurrencyFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.CurrencyFormatter" />
       <module name="ExamPractices" />
@@ -63,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hash_Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.Hash_Set" />
+    <configuration name="DigitsCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t360.DigitsCounter" />
       <module name="ExamPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.*" />
+          <option name="PATTERN" value="t360.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.MainOps" />
+    <configuration name="Kennel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t360.Kennel" />
       <module name="ExamPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.*" />
+          <option name="PATTERN" value="t360.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Solution" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t360.Main" />
       <module name="ExamPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.*" />
+          <option name="PATTERN" value="t360.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Kennel" />
+        <item itemvalue="Application.DigitsCounter" />
         <item itemvalue="Application.Zoo" />
         <item itemvalue="Application.CurrencyFormatter" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.MainOps" />
-        <item itemvalue="Application.Hash_Set" />
       </list>
     </recent_temporary>
   </component>
