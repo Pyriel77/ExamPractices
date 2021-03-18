@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34dcc8ea-2115-49b3-b5e5-6aa959faa981" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basics/CompareTriplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/qualified0317/CountPairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/filemanagement/Zoo.java" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fileManagement/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fileManagement/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fileManagement/Bear.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fileManagement/Bear.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fileManagement/Zoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fileManagement/Zoo.class" afterDir="false" />
->>>>>>> d0ec09d4d3db7963c5457add40943971c7a65eac
+      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileManagement/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileManagement/Bear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/FoodType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileManagement/FoodType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/Hedgehog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileManagement/Hedgehog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileManagement/Rabbit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/Wolf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileManagement/Wolf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/filemanagement/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileManagement/Zoo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-<<<<<<< HEAD
         <option value="Enum" />
-=======
->>>>>>> d0ec09d4d3db7963c5457add40943971c7a65eac
         <option value="Class" />
       </list>
     </option>

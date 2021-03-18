@@ -9,9 +9,7 @@ public class Zoo {
 
     public static void main(String[] args) {
 
-<<<<<<< HEAD
 
-=======
         int day = 0;
 
         Bear bear = new Bear("Balu", 4);
@@ -39,7 +37,7 @@ public class Zoo {
         System.out.println(wolf.getName() + ", súlya: " + wolf.getWeight());
         System.out.println(rabbit.getName() + ", súlya: " + rabbit.getWeight());
         System.out.println(hedgehog.getName() + ", súlya: " + hedgehog.getWeight());
->>>>>>> d0ec09d4d3db7963c5457add40943971c7a65eac
+
 
     }
 }
